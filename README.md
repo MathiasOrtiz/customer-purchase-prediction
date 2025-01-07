@@ -33,7 +33,7 @@ This project focuses on predicting customer purchase behavior using a combinatio
    - Early stopping to optimize training.
 
 4. **Model Evaluation**:
-   - Achieved an accuracy of **85.75%** on the test set.
+   - Achieved an accuracy of **86.20%** on the test set.
    - Precision, recall, and F1-score highlighted challenges due to class imbalance.
    - Confusion matrix and learning curves were used for further analysis.
 
